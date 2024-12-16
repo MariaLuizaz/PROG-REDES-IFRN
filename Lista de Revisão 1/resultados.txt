@@ -1,0 +1,10 @@
+Texto a validar	Bits em zero	Nonce	Tempo (em s)
+Esse eh facil	8	0	0.000000
+Esse eh facil	10	0	0.000000
+Esse eh facil	15	0	0.000000
+Texto maior muda o tempo?	8	0	0.000000
+Texto maior muda o tempo?	10	0	0.000000
+Texto maior muda o tempo?	15	0	0.000000
+Eh possivel calcular esse?	18	0	0.000000
+Eh possivel calcular esse?	19	0	0.000000
+Eh possivel calcular esse?	20	0	0.000000
